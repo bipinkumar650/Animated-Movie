@@ -1,0 +1,14 @@
+cd billboarding
+bash scene1.sh
+cd ../frame_explosion
+bash scene2.sh
+cd ../frame_character_saw_cloud_smile_and_run
+bash scene3.sh
+cd ../frame_walking_ulta_on_roof
+bash scene4.sh
+cd ../frame_walking_colliding
+bash scene5.sh
+cd ../frame_char_jump_from_tower 
+bash scene5.sh
+cd ../frame_water_sqeeze
+bash scene7.sh
